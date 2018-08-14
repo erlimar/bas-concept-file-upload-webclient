@@ -80,7 +80,7 @@
 
         self.options = config || {};
 
-        self.options.url = self.options.url || 'http://bas-concept-file-upload-api.herokuapp.com';
+        self.options.url = self.options.url || 'https://bas-concept-file-upload-api.herokuapp.com';
 
         // TODO: "/" end's
 
