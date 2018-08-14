@@ -18,7 +18,7 @@ const server = http.createServer((req, res) => {
         return;
     }
 
-    let filePath = './public' + (
+    let filePath = '.' + (
         req.url === '/'
             ? '/index.html'
             : req.url);
