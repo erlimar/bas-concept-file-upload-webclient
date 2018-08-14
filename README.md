@@ -41,3 +41,7 @@ webClient.sendFile(files, params)
 
 A parte do lado do servidor dessa prova de conceito pode ser encontrada em https://github.com/erlimar/bas-concept-file-upload-api
 
+## Demonstração
+
+Você pode ver uma demonstração online em https://unpkg.com/bas-concept-file-upload-webclient/index.html
+
