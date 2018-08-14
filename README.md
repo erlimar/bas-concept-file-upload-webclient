@@ -36,3 +36,8 @@ webClient.sendFile(files, params)
         console.log('Error:', result);
     });
 ```
+
+## Servidor
+
+A parte do lado do servidor dessa prova de conceito pode ser encontrada em https://github.com/erlimar/bas-concept-file-upload-api
+
