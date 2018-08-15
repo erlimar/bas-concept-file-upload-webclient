@@ -1,6 +1,6 @@
 {
   "name": "bas-concept-file-upload-webclient",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Prova de conceito para API de upload de arquivos para BAS (WebClient)",
   "browser": "dist/bas-concept-file-upload-web-client.js",
   "scripts": {
